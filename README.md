@@ -233,7 +233,7 @@ marketing-campaign-roi-analysis/
 
 1. Clone this repo
    ```bash
-   git clone https://github.com/analytics-ak/marketing-campaign-roi-analysis.git
+   git clone https://github.com/abhishekdwivedi87/ROI-analysis.git
    ```
 2. Install required libraries
    ```bash
@@ -250,6 +250,6 @@ marketing-campaign-roi-analysis/
 
 ## Author
 
-**Ashish Kumar Dongre**
+**Abhishek Dwivedi**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ashish-kumar-dongre-742a6217b/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/analytics-ak/marketing-campaign-roi-analysis) &nbsp;|&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-dwivedi-6156312b9) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/abhishekdwivedi87/ROI-analysis) &nbsp;|&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
